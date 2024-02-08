@@ -1,0 +1,6 @@
+[submodule "Core/Source/CartesianCoordinates"]
+	path = Core/Source/CartesianCoordinates
+	url = https://github.com/spiros-zer/CartesianCoordinates.git
+[submodule "Core/Source/PolarCoordinates"]
+	path = Core/Source/PolarCoordinates
+	url = https://github.com/spiros-zer/PolarCoordinates.git
